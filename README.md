@@ -32,7 +32,9 @@ The project uses an SQL database created from `imdb.sql`.
 ---
 
 ## 🛠 Tools & Technologies Used
-- **MySQL 
+- **MySQL
+
+-  
  📊 Key Analysis Performed
 - Top 10 highest-rated movies  
 - Movies with the highest number of votes  
